@@ -1,0 +1,119 @@
+body, html 
+{
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("wall.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#banner_image
+{
+        margin-top: 50px;
+	padding-top: 75px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url("wall.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#banner_content
+{
+	position: relative;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	margin-top: 12%;
+	margin-bottom: 12%;
+	margin-left: 270px;
+	background-color: rgba(0, 0, 0, 0.7);
+	max-width: 660px;
+}
+
+#content
+{
+    margin-top: 60px;
+    height: 550px;
+    width: 700px;
+}
+
+#content1
+{
+    margin-top: 80px;
+    height: 70px;
+    width: 600px;
+}
+
+.row-odd 
+{
+    background-color: #F0EFEA;
+}
+
+.topping
+{
+    position: relative;
+    display: inline;
+}
+
+.left-panel
+{
+    height: 100px;
+    width: 300px;
+    margin-top: 170px;
+    margin-left: 520px;
+}
+
+.right-panel
+{
+    height: 100px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 520px;
+}
+
+footer
+{
+	padding: 10px 0;
+	background-color: #101010;
+	color: #9d9d9d;
+	bottom: 0;
+	width: 100%;
+}
+
+.maxim
+{
+    margin-top: 40px;
+}
+
+.top
+{
+    margin-top: 210px;
+}
+
+#margin
+{
+    margin-top: 320px;
+}
+
+#position
+{
+    margin-top: 15px;
+    margin-left: 640px;
+}
+
+#container2
+{
+    margin-top: 120px;
+    height: 60px;
+    width: 700px;
+}
+
+.margin_top
+{
+    margin-top: 560px;
+}
